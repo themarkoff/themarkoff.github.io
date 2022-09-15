@@ -15,6 +15,8 @@ body {
   font-family: Inter, "Segoe UI", Roboto, Oxygen, Cantarell, "Open Sans", "Helvetica Neue", Ubuntu, sans-serif;
   min-height: 450px;
   counter-reset: sidenote-counter;
+  margin: 0 auto;
+  max-width: 1200px;
 }
 
 .box {
