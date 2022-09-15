@@ -3,7 +3,7 @@ layout: page
 permalink: /
 ---
 
-### Collect. Connect. Create.
+### Collect. Connect. Create. MAKROV
 
 [[“There is nothing to writing. All you do is sit down at a typewriter and bleed.” <br><cite>--- Ernest Hemingway </cite>::lmn]]<mark>Welcome aboard!</mark> This project began development in late 2020 and is intended to serve three purposes:[[“Blogging is to writing what extreme sports are to athletics: more free-form, more accident-prone, less formal, more alive. It is, in many ways, writing out loud.” <br><cite>--- Andrew Sullivan</cite>::rmn]]
 
